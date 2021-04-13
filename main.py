@@ -34,6 +34,7 @@ async def on_message(message):
     await message.channel.send(embed=embed)
 
 keep_alive()
-client.run("ODMxNTIwNTMwMzIyNTU0ODgw.YHWb1w.Z0UQZkd1FkLBhpZkpJwZUtybDeA")
+client.run("token")
 
-# if you hack this bot, i wont like you anymore
+
+#haha no token 4 u!!
