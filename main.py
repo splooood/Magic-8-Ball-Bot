@@ -44,5 +44,5 @@ async def on_message(message):
 
 
 keep_alive()
-client.run("ODMxNTIwNTMwMzIyNTU0ODgw.YHWb1w.qpI-F0Ywhx8fqA_o3Drwszz_py0")
+client.run("token")
 
